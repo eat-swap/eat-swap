@@ -1,5 +1,5 @@
 ### Touching fish makes you live longer. 👋
-#### Code below was cpoied.
+#### Code below was copied.
 
 <!--
 **lamhaoyin/lamhaoyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
