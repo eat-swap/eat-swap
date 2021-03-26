@@ -1,5 +1,5 @@
 ### Touching fish makes you live longer. 👋
-## Code below was cpoied.
+#### Code below was cpoied.
 
 <!--
 **lamhaoyin/lamhaoyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pan93412&bg_color=90,DAFFEF,FCFFFD)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pan93412&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD)
+![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lamhaoyin&bg_color=90,DAFFEF,FCFFFD)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamhaoyin&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD)
