@@ -6,6 +6,6 @@ Related Organisation: [@EatSwap](https://github.com/EatSwap)
 
 Personal website: [Here](https://eatswap.org)
 
-![Stats](https://github-readme-stats.vercel.app/api?theme=radical&username=eat-swap&show_icons=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?theme=radical&username=eat-swap&show_icons=true&include_all_commits=true&count_private=true)
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=eat-swap&layout=compact)
